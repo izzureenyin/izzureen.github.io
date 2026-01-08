@@ -64,3 +64,10 @@ footer {
   padding: 30px;
   opacity: 0.6;
 }
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid #38bdf8;
+  margin-bottom: 20px;
+}
